@@ -2,19 +2,64 @@
     {
         "id": "pp001omf",
 		"title": "Oh my food",
-		"cover": "",
-		"language": "",
+		"cover": "https://photos.app.goo.gl/3Xq3oxKqdg2SvtrF8",
+		"language": [
+            "https://photos.app.goo.gl/BWtaE7Pzr5cg9sMh7",
+            "https://photos.app.goo.gl/fnkbbm8k5cUghuZT6",
+            "https://photos.app.goo.gl/tRRsJQoWGEbweDWNA"
+        ],
         "pictures": [
-			"",
-            "",
-            "",
-            ""	
+			"https://photos.app.goo.gl/pKbRjV8YFjqYyAhM8",
+            "https://photos.app.goo.gl/zVW4eESWpnT9QkaK8"
 		],
 		"description": "Création d’un site de commande de repas en ligne",
+        "mission": "développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques",
+		"project":{
+            "projetDescription": "Pour ce projet, j'ai réalisé l'intégration des maquettes mobile et desktop.Le projet nécessitait une approche “mobile first” donc parfaitement responsive et l'intégration de divers animations CSS ",
+            "siteComposition": [
+                "Une page d'accueil",
+                "Quatre page de menu",
+                "Un header",
+                "Un footer"
+        ],
+            "newSkills": [
+                "Mettre en oeuvre des effets CSS graphiques avancés",
+                "Mettre en place une structure de navigation pour un site web",
+                "Assurer la cohérence graphique d'un site web",
+                "Utiliser un système de gestion de versions pour le suivi d'un projet et son herbegement"
+            ]
+        },           
+        "seeProject": "Vous pouvez consulter le site et retrouvez le code source sur mon espace GitHub"		
+    },
+
+    {
+        "id": "",
+		"title": "",
+		"cover": "",
+		"language": [
+            "",
+            "",
+            ""
+        ],
+        "pictures": [
+			"",
+            "",
+            "",
+            ""	
+		],
+		"description": "",
         "mission": "",
 		"project": {
-            "siteComposition": "",
-            "newSkills": ""
+            "siteComposition": [
+                "",
+                "",
+                "",
+                ""
+        ],
+            "newSkills": [
+                "",
+                ""
+            ]
         },           
         "seeProject": ""		
     },
@@ -33,8 +78,16 @@
 		"description": "",
         "mission": "",
 		"project": {
-            "siteComposition": "",
-            "newSkills": ""
+            "siteComposition": [
+                "",
+                "",
+                "",
+                ""
+        ],
+            "newSkills": [
+                "",
+                ""
+            ]
         },           
         "seeProject": ""		
     },
@@ -53,8 +106,16 @@
 		"description": "",
         "mission": "",
 		"project": {
-            "siteComposition": "",
-            "newSkills": ""
+            "siteComposition": [
+                "",
+                "",
+                "",
+                ""
+        ],
+            "newSkills": [
+                "",
+                ""
+            ]
         },           
         "seeProject": ""		
     },
@@ -73,28 +134,16 @@
 		"description": "",
         "mission": "",
 		"project": {
-            "siteComposition": "",
-            "newSkills": ""
-        },           
-        "seeProject": ""		
-    },
-
-    {
-        "id": "",
-		"title": "",
-		"cover": "",
-		"language": "",
-        "pictures": [
-			"",
-            "",
-            "",
-            ""	
-		],
-		"description": "",
-        "mission": "",
-		"project": {
-            "siteComposition": "",
-            "newSkills": ""
+            "siteComposition": [
+                "",
+                "",
+                "",
+                ""
+        ],
+            "newSkills": [
+                "",
+                ""
+            ]
         },           
         "seeProject": ""		
     }
