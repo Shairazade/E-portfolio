@@ -9,13 +9,14 @@
             "https://photos.app.goo.gl/tRRsJQoWGEbweDWNA"
         ],
         "pictures": [
+            "https://photos.app.goo.gl/3Xq3oxKqdg2SvtrF8",
 			"https://photos.app.goo.gl/pKbRjV8YFjqYyAhM8",
             "https://photos.app.goo.gl/zVW4eESWpnT9QkaK8"
 		],
 		"description": "Création d’un site de commande de repas en ligne",
         "mission": "développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques",
 		"project":{
-            "projetDescription": "Pour ce projet, j'ai réalisé l'intégration des maquettes mobile et desktop.Le projet nécessitait une approche “mobile first” donc parfaitement responsive et l'intégration de divers animations CSS ",
+            "projetDescription": "Pour ce projet, j'ai réalisé l'intégration des maquettes mobile et desktop. Le projet nécessitait une approche “mobile first” donc parfaitement responsive et l'intégration de divers animations CSS ",
             "siteComposition": [
                 "Une page d'accueil",
                 "Quatre page de menu",
@@ -29,123 +30,151 @@
                 "Utiliser un système de gestion de versions pour le suivi d'un projet et son herbegement"
             ]
         },           
-        "seeProject": "Vous pouvez consulter le site et retrouvez le code source sur mon espace GitHub"		
+        "seeProject": "Vous pouvez consulter le site et retrouver le code source sur mon espace GitHub"		
     },
 
     {
-        "id": "",
-		"title": "",
-		"cover": "",
+        "id": "pp002lp",
+		"title": "La Panthère : agence de web design",
+		"cover": "https://photos.app.goo.gl/KYDV8KMroXcvg6i9A",
 		"language": [
-            "",
-            "",
-            ""
+            "https://photos.app.goo.gl/BWtaE7Pzr5cg9sMh7",
+            "https://photos.app.goo.gl/fnkbbm8k5cUghuZT6",
+            "https://photos.app.goo.gl/tRRsJQoWGEbweDWNA"
         ],
         "pictures": [
-			"",
-            "",
-            "",
-            ""	
+			"https://photos.app.goo.gl/KYDV8KMroXcvg6i9A",
+            "https://photos.app.goo.gl/8srX8187A1wDTKzcA",
+            "https://photos.app.goo.gl/TDVnmCyqFG6F4ryb9"
 		],
-		"description": "",
-        "mission": "",
+		"description": "Optimisation d'un site web ",
+        "mission": "Améliorer le SEO du site afin qu'il apparaisse dans les premiers résultats des moteurs de recherche",
 		"project": {
+            "projetDescription": "Pour ce projet, j'ai premièrement effectué une analyse de l'état actuel de SEO du site fourni. J'ai par la suite indiqué les parties du site qui n'étaient pas optimisées pour le SEO. J'ai fini avec un compte rendu incluant une dizaine de recommandations pour améliorer le site avant d'appliquer mes recommandations au site. Un rapport avec une comparaison du site actuelle et la vesion optimisée a également été fourni.",
             "siteComposition": [
-                "",
-                "",
-                "",
-                ""
+                "Une page d'accueil",
+                "Une page de contact"
         ],
             "newSkills": [
-                "",
-                ""
+                "Réaliser une recherche de bonnes pratiques en développement web",
+                "Optimiser le référencement d'un site web",
+                "Optimiser la taille et la vitesse d'un site web",
+                "Assurer l'accessibilité d'un site web"
             ]
         },           
-        "seeProject": ""		
+        "seeProject": "Vous pouvez consulter le site et retrouver le code source sur mon espace GitHub"		
     },
 
     {
-        "id": "",
-		"title": "",
-		"cover": "",
-		"language": "",
+        "id": "pp003knp",
+		"title": "Kanap",
+		"cover": "https://photos.app.goo.gl/t5nLCVXfMFd9oXXEA",
+		"language": [
+            "https://photos.app.goo.gl/BWtaE7Pzr5cg9sMh7",
+            "https://photos.app.goo.gl/fnkbbm8k5cUghuZT6",
+            "https://photos.app.goo.gl/EA7HJAyS8bXHLKWz7",
+            "https://photos.app.goo.gl/hrfCv4fJTkV9NakHA",
+            "https://photos.app.goo.gl/57DFUGVUgSwXRqRX8",
+            "https://photos.app.goo.gl/tRRsJQoWGEbweDWNA"
+        ],
         "pictures": [
-			"",
-            "",
-            "",
-            ""	
+			"https://photos.app.goo.gl/t5nLCVXfMFd9oXXEA",
+            "https://photos.app.goo.gl/2VbeHSZ1ZBsvnFjQ7",
+            "https://photos.app.goo.gl/RYRN8jXj5TCCqXSP6",
+            "https://photos.app.goo.gl/Lcmuk3iWr1AoNNYs9",
+            "https://photos.app.goo.gl/L6NLJGYrXuEjPZH47"	
 		],
-		"description": "",
-        "mission": "",
+		"description": "Construction d'un site e-commerce en JavaScript",
+        "mission": "implémenter un site de manière dynamique",
 		"project": {
+            "projetDescription": "Pour ce projet, j'ai unifié les travaux déjà réalisés en intégrant dynamiquement les élements d'une API dans les différentes pages web avec JavaScript. J'ai par la suite mis en place un plan de test d'acceptation.",
             "siteComposition": [
-                "",
-                "",
-                "",
-                ""
+                "Une page d'accueil",
+                "Une page produit",
+                "Une page panier",
+                "Une page de confirmation"
         ],
             "newSkills": [
-                "",
-                ""
+                "Créer un plan de test pour un application",
+                "Valider des données issues de sources externes",
+                "Intéragir avec un web service avec JavaScript"
             ]
         },           
-        "seeProject": ""		
+        "seeProject": "Vous pouvez retrouver le code source du projet sur mon espace GitHub"		
     },
 
     {
-        "id": "",
-		"title": "",
-		"cover": "",
-		"language": "",
+        "id": "pp004ht",
+		"title": "Hot Takes",
+		"cover": "https://photos.app.goo.gl/G8Cr4pBiZ7z4uypC6",
+		"language": [
+            "https://photos.app.goo.gl/EA7HJAyS8bXHLKWz7",
+            "https://photos.app.goo.gl/hrfCv4fJTkV9NakHA",
+            "https://photos.app.goo.gl/57DFUGVUgSwXRqRX8",
+            "https://photos.app.goo.gl/WtgLyNc9G4RdapnRA",
+            "https://photos.app.goo.gl/tRRsJQoWGEbweDWNA"
+        ],
         "pictures": [
-			"",
-            "",
-            "",
-            ""	
+			"https://photos.app.goo.gl/G8Cr4pBiZ7z4uypC6",
+            "https://photos.app.goo.gl/JEBXeDE4EmbZSUSt7",
+            "https://photos.app.goo.gl/K69XTyRgtGPPeFaf6",
+            "https://photos.app.goo.gl/p3S3oe6ZjyRsA2Xu7",
+            "https://photos.app.goo.gl/p3S3oe6ZjyRsA2Xu7"
 		],
-		"description": "",
-        "mission": "",
+		"description": "Construction d'une API sécurisée pour une application d'avis gastronomiques",
+        "mission": "Construire une API securisée",
 		"project": {
+            "projetDescription": "Ce projet consistait à construire une API afin d'obtenir une « galerie de sauces » permettant aux utilisateurs de télécharger leur sauces piquantes préférées et de liker ou disliker les sauces que d'autres partagent. Ceci en faisant attention aux exigences en matière de sécurité (selon le RGPD et l'OWASP) ",
             "siteComposition": [
-                "",
-                "",
-                "",
-                ""
+                "Une page d'authentification/inscription",
+                "Une page d'accueil réunissant toutes les sauces",
+                "Une page d'ajout/modification de sauce",
+                "Une page de présentation de sauce"
         ],
             "newSkills": [
-                "",
-                ""
+                "Mettre en oeuvre des opérations CRUD de manière sécurisée",
+                "Implémenter un modèle logique de données conformément à la réglementation",
+                "Stocker des données de manière sécurisée"
             ]
         },           
-        "seeProject": ""		
+        "seeProject": "Vous pouvez retrouver le code source du projet sur mon espace GitHub"		
     },
 
     {
-        "id": "",
-		"title": "",
-		"cover": "",
-		"language": "",
+        "id": "pp005ks",
+		"title": "Kasa",
+		"cover": "https://photos.app.goo.gl/ahPvGTZbn3hkGT629",
+		"language": [
+            "https://photos.app.goo.gl/wb4VyXgRrrcbx3mX6",
+            "https://photos.app.goo.gl/EA7HJAyS8bXHLKWz7",
+            "https://photos.app.goo.gl/qujCG9opmmw8TYWcA",
+            "https://photos.app.goo.gl/hrfCv4fJTkV9NakHA",
+            "https://photos.app.goo.gl/tRRsJQoWGEbweDWNA"
+        ],
         "pictures": [
-			"",
-            "",
-            "",
-            ""	
+			"https://photos.app.goo.gl/ahPvGTZbn3hkGT629",
+            "https://photos.app.goo.gl/tEvTZXn5p6PuHzF77",
+            "https://photos.app.goo.gl/JQbesA51RxB7wvjJ7",
+            "https://photos.app.goo.gl/7CyiNpCxFJYMYA1i8",
+            "https://photos.app.goo.gl/sAhuyyJbFCwr22zY6"	
 		],
-		"description": "",
-        "mission": "",
+		"description": "Création d'une application web de location immobilière avec React",
+        "mission": "Développer la nouvelle plateforme web d'un site de location d'appartement avec React",
 		"project": {
+            "projetDescription": "Ce projet consitait à développer l'ensemble de l'application en React, créer les composants nécessaires, les routes React Router en suivant les maquettes Figma. J'ai également intégré les dernières annonces de façon dynamique",
             "siteComposition": [
-                "",
-                "",
-                "",
-                ""
+                "Une page d'accueil réunissant les dernières annonces de logements",
+                "Une page fiche logement",
+                "Une page à propos",
+                "Une page d'erreur"
         ],
             "newSkills": [
-                "",
-                ""
+                "Configurer la navigation entre les pages de l'application avec React Router",
+                "Développer des éléments de l'interface d'un site web grâce à des composants React",
+                "Initialiser une application avec Create React App"
             ]
         },           
-        "seeProject": ""		
+        "seeProject": "Vous pouvez retrouver le code source du projet sur mon espace GitHub"		
     }
 
 ]
