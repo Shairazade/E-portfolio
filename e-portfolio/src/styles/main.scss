@@ -1,5 +1,7 @@
-@import "../styles/body.scss";
+@import "../styles/Utils/variable.scss";
 @import "../styles/Utils/mixins.scss";
+@import "../styles/body.scss";
 
 @import "../components/Header/Header.scss";
+@import "../components/Nav/Navigation.scss";
 @import "../components/Footer/Footer.scss";

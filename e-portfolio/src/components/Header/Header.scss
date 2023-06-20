@@ -1,0 +1,9 @@
+.header-container {
+    @include flex-end;
+    margin: 5%;
+
+    @media screen and (min-width: $breakpoint-desktop) {
+        margin: 40px 50px 49px 100px;
+    }
+}
+

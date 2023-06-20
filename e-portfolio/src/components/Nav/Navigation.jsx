@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 const Navigation = () => {
     return (
         <nav className='navigation'>
-            <NavLink to='/contact' className="navigation_contact">
+            <NavLink to='/contact' className="navigation_contact headline">
                 Contactez-moi
             </NavLink>
             

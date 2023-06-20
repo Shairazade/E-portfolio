@@ -4,3 +4,26 @@
     box-sizing: border-box;
     font-family: "M+PLUS+1+Code", sans-serif;
 }
+
+
+body {
+    @include body-position;
+
+    @media (min-width: $breakpoint-desktop) {
+        max-width: 100%;
+    }
+
+    background-color: $secondary-color;
+}
+
+body .headline {
+    font-family:'Courier New', Courier, monospace;
+}
+
+main {
+    margin: 5%;
+
+    @media screen and (min-width: $breakpoint-desktop) {
+        margin: 0 100px;
+    }
+}
