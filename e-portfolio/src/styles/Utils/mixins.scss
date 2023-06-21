@@ -23,10 +23,30 @@
     justify-content: center;
 }
 
+@mixin flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin flex-space {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
 @mixin small-radius {
     border-radius: 10px;
 }
 
 @mixin big-radius {
-    border-radius: 25px;
+    border-radius: 15px;
+}
+
+@mixin font-right {
+    font-size: $fsizeHead3;
+    font-style: normal;
+    text-align: right;
+    line-height: 142.6%;
 }

@@ -7,13 +7,13 @@
 	}
 
 	&_contact {
-		
+		font-size: $fsizeHead2;
 		color: $primary-color;
 		text-decoration: none;
 		padding-left: 0.8rem;
 
 		@media screen and (min-width: $breakpoint-desktop) {
-			
+				
 			padding-left: 3.5rem;
 		}
     }
