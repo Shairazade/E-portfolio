@@ -17,11 +17,15 @@ body {
 }
 
 
-
 h1,h2,h3 {
     font-family: 'Amatic SC', cursive;
     font-weight: 400;
     color: $primary-color;
+    margin: 0px;
+}
+
+h2 {
+    font-size: $fsizeHead2;
 }
 
 p {

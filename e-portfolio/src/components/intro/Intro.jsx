@@ -5,7 +5,7 @@ export default function Intro() {
   return (
 <div className='intro-container'>
     <h1>Shairazade Hassani</h1>
-    <p className='intro-animation'>Développeuse intégratrice web_</p>
+    <p className='line intro-animation'>Développeuse intégratrice web</p>
     <Button to= "/portfolio" text="Voir portfolio"  />
     
 </div>

@@ -2,22 +2,57 @@
 
     @include flex-center;
     flex-direction: column;
-    margin: auto;   
+    margin: auto;  
+    margin-top: 100px; 
 }
 
 h1 {
     font-size: 100px;
+    margin-bottom: 20px;
     @media screen and (max-width: $breakpoint-desktop) {
         font-size: 80px;			
     
 }
 }
 
-p {
-    font-size: 50px;
-    margin: 0px;
-    @media screen and (max-width: $breakpoint-desktop) {
-        font-size: 35px;			    
-}
+
+
+.line {
+    position: relative;
+    top: 50%;
+    width: 16em;
+    margin: 0 auto;
+    border-right: 2px solid rgba(19, 23, 62, 0.75);
+    font-size: 180%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;transform: translateY(-50%);
+
 }
 
+.intro-animation {
+    // ou normal both pour typewritter
+    animation: typewriter 3s steps(35) 500ms infinite alternate, 
+    blinkTextCursor 500ms steps(40) infinite normal;
+}
+
+
+
+@keyframes typewriter {
+    from {
+          width: 0;
+    }
+    to {
+          width: 16em;
+    }
+}
+
+
+@keyframes blinkTextCursor {
+    from {
+        border-right-color: rgba(19, 23, 62, 0.75);
+  }
+  to {
+        border-right-color: transparent;
+  }
+}

@@ -1,0 +1,66 @@
+.card-projet {
+        position: relative;
+        display: flex;
+        width: 611px;
+        height: 400px;
+        @include small-radius;
+        min-width: 611px;
+        transition: transform 1s;
+        border: 1px solid rgba(19, 23, 62, 0.00);
+        background: #E9E8ED;
+
+        &:hover,
+        &:focus {
+            @include boxShadow;
+        }
+    
+        @media screen and (min-width: $breakpoint-desktop) {
+            width: 640px;
+            height: 440px;
+    
+        }
+
+        & img {
+            display: flex;
+            width: 100%;
+            @include small-radius;
+            object-fit: cover;
+        }
+
+        &_description {
+            display: flex;
+            align-items: center;
+            position: absolute;
+            bottom: 0;
+            background: $linear-cards;
+            @include WH-full;
+            @include small-radius;
+        }
+    
+        &_title {
+            display: flex;
+            align-items: flex-end;
+            position: absolute;
+            color: #f1f1f1;
+            left: 5.88%;
+            right: 5.88%;
+            top: 78.82%;
+            bottom: 5.88%;
+        }
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 20px;
+    @include small-radius;
+    margin: 22px 0;
+    flex-wrap: wrap;
+
+    @media screen and (min-width: $breakpoint-desktop) {
+        gap: 50px;
+        @include big-radius;
+        margin: 43px 0;
+    }
+}
