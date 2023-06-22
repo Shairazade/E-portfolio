@@ -1,0 +1,13 @@
+.button {
+    @include small-radius;
+    @include flex-center;
+    width: 298px;
+    height: 70px;
+    flex-shrink: 0;
+    background: $primary-color;
+    color: $tertiary-color;
+    text-decoration: none;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    margin-top: 50px;
+}

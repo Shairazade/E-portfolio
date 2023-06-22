@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, useMatch } from "react-router-dom";
 import Home from './pages/Home';
 import Portfolio from './pages/Portfolio';
 import Header from './components/Header/Header';
@@ -8,12 +8,12 @@ import Contact from './pages/Contact';
 import Footer from './components/Footer/Footer';
 
 function App() {
-  const isHomePage = window.location.pathname === "/";
+  const match = useMatch("/");
 
   return (
-    <BrowserRouter>
+    
       <div className="App">
-        {isHomePage ? null : <Header />} 
+        {!match && <Header />} 
         <main>
           <Routes>
             <Route path="/" element={<Home />} />
@@ -22,9 +22,9 @@ function App() {
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
-        {isHomePage ? null : <Footer />} 
+        {!match && <Footer />} 
       </div>
-    </BrowserRouter>
+   
   );
 }
 

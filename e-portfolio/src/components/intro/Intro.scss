@@ -2,15 +2,22 @@
 
     @include flex-center;
     flex-direction: column;
-    margin: auto;
-    
-    
+    margin: auto;   
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 100px;
+    @media screen and (max-width: $breakpoint-desktop) {
+        font-size: 80px;			
+    
+}
 }
 
 p {
     font-size: 50px;
+    margin: 0px;
+    @media screen and (max-width: $breakpoint-desktop) {
+        font-size: 35px;			    
 }
+}
+

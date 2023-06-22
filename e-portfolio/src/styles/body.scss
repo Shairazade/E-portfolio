@@ -21,6 +21,11 @@ body {
 h1,h2,h3 {
     font-family: 'Amatic SC', cursive;
     font-weight: 400;
+    color: $primary-color;
+}
+
+p {
+    color: $primary-color;
 }
 
 main {
