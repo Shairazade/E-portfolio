@@ -25,8 +25,9 @@ export default function Portfolio() {
             {data.map((projet, id) => (
                         <div className='card_projet' key={id}>
                             <Link className='link_card_projet' to={`/projet/${projet.id}`}>
-                                <Card cover={projet.cover} title={projet.title} description={projet.description} language={projet.language} />
+                                <Card cover={projet.cover} title={projet.title} description={projet.description} language={projet.language} />                               
                             </Link>
+                            
 
                         </div>
                     ))}

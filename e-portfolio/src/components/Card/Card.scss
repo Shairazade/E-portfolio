@@ -1,69 +1,76 @@
 .card-projet {
-        position: relative;
-        display: flex;
-        width: 650px;
-        height: 400px;
-        @include small-radius;
-        min-width: 611px;
-        transition: transform 1s;
-        border: 1px solid rgba(19, 23, 62, 0.00);
-        background: #E9E8ED;
+    position: relative;
+    display: flex;
+    width: 700px;
+    height: 400px;
+ 
+    min-width: 611px;
+    transition: transform 1s;
+    border: 1px solid rgba(19, 23, 62, 0.00);
+    background: $secondary-color;
+    @include boxShadow;
 
-        &:hover,
-        &:focus {
-            @include boxShadow;
-        }
-    
-        @media screen and (min-width: $breakpoint-desktop) {
-            width: 640px;
-            height: 440px;
-        }
-    
+    &:hover,
+    &:focus {
+        @include boxMoreShadow;
+    }
+
+    @media screen and (min-width: $breakpoint-desktop) {
+        width: 700px;
+        height: 440px;
+    }
+
 
 }
 
+
 .card-image {
+width: 100%;
+height: 60%;
+position: relative;
+overflow: hidden;
+
+& img {
     width: 100%;
-    height: 60%;
-    position: relative;
-    overflow: hidden;
-    
-    & img {
-        width: 100%;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -42%);
-        @include small-radius;
-        object-fit: cover;
-    
-    }
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    object-fit: cover;
+
+}
 }
 
 
 .card-projet_body {
-    display:flex;
-    flex-direction: column;
-    align-items: flex-start;
-    position: absolute;
-    @include WH-full;
-    @include small-radius;
-    height: 40%;
-    border : solid 2px black;
+display:flex;
+flex-direction: column;
+align-items: center;
+position: absolute;
+transform: translateY(150%);
+@include WH-full;
+height: 40%;
 
-    & img {
-      
-        height: 50%;
-    }
 
+& p {
+    margin: 0 0 10px;
+}
 }
 
+.card-projet_language {
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
 
-
+    & img {
+  
+        height: 35%;
+    }
+}
 
 .cards-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     width: 100%;
     gap: 20px;
     @include small-radius;

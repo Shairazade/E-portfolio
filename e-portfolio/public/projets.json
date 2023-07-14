@@ -36,16 +36,16 @@
     {
         "id": "pp002lp",
 		"title": "La Panthère : agence de web design",
-		"cover": "",
+		"cover": "https://i.postimg.cc/Jn0Qmd94/panthere-home.png",
 		"language": [
-            "",
-            "",
-            ""
+            "https://i.postimg.cc/8PnPqpNX/HTML.png",
+            "https://i.postimg.cc/yYqz9D6H/CSS.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
         ],
         "pictures": [
-			"",
-            "",
-            ""
+			"https://i.postimg.cc/Jn0Qmd94/panthere-home.png",
+            "https://i.postimg.cc/hvSs6tc6/panthere-footer.png",
+            "https://i.postimg.cc/WpBgd4Bv/panthere-contact.png"
 		],
 		"description": "Optimisation d'un site web ",
         "mission": "Améliorer le SEO du site afin qu'il apparaisse dans les premiers résultats des moteurs de recherche",
@@ -68,18 +68,19 @@
     {
         "id": "pp003knp",
 		"title": "Kanap",
-		"cover": "",
+		"cover": "https://i.postimg.cc/5NyDr34x/kanap-home.png",
 		"language": [
-            "",
-            "",
-            "",
-            ""
+            "https://i.postimg.cc/vHDHvfCn/Java-Script.png",
+            "https://i.postimg.cc/J4yMXmBc/Node-js.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
         ],
         "pictures": [
-			"",
-            "",
-            "",
-            ""
+			"https://i.postimg.cc/5NyDr34x/kanap-home.png",
+            "https://i.postimg.cc/1tRvqm49/kanap-products.png",
+            "https://i.postimg.cc/P5k9qkbq/kanap.png",
+            "https://i.postimg.cc/vB95TCtQ/kanap-basket.png",
+            "https://i.postimg.cc/RFrnkX52/kanap-form.png",
+            "https://i.postimg.cc/mZjtjbDv/kanap-confirmation.png"
 		],
 		"description": "Construction d'un site e-commerce en JavaScript",
         "mission": "implémenter un site de manière dynamique",
@@ -103,18 +104,19 @@
     {
         "id": "pp004ht",
 		"title": "Hot Takes",
-		"cover": "",
+		"cover": "https://i.postimg.cc/yYJ38M12/hottake-home.png",
 		"language": [
-            "",
-            "",
-            "",
-            ""
+            "https://i.postimg.cc/vHDHvfCn/Java-Script.png",
+
+            "https://i.postimg.cc/J4yMXmBc/Node-js.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
         ],
         "pictures": [
-            "",
-            "",
-            "",
-            ""
+            "https://i.postimg.cc/yYJ38M12/hottake-home.png",
+            "https://i.postimg.cc/7YTcnLP9/hottake-sign.png",
+            "https://i.postimg.cc/V6fvXTj9/hottake-sauce.png",
+            "https://i.postimg.cc/Jh27Bnz8/hottake-add.png",
+            "https://i.postimg.cc/zXzm8NqF/hottake-modify.png"
 		],
 		"description": "Construction d'une API sécurisée pour une application d'avis gastronomiques",
         "mission": "Construire une API securisée",
@@ -138,18 +140,20 @@
     {
         "id": "pp005ks",
 		"title": "Kasa",
-		"cover": "",
+		"cover": "https://i.postimg.cc/SKD21kQ1/kasa-home.png",
 		"language": [
-         "",
-         "",
-         "",
-         ""
+            "https://i.postimg.cc/vHDHvfCn/Java-Script.png",
+            "https://i.postimg.cc/PrjDq674/Sass.png",
+            "https://i.postimg.cc/c1QKPRJ8/React.png",
+            "https://i.postimg.cc/J4yMXmBc/Node-js.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
         ],
         "pictures": [
-			"",
-            "",
-            "",
-            ""
+			"https://i.postimg.cc/SKD21kQ1/kasa-home.png",
+            "https://i.postimg.cc/7YHgVsNL/kasa-card.png",
+            "https://i.postimg.cc/y8SWXc2d/kasa-log.png",
+            "https://i.postimg.cc/jq7s1tZg/kasa-about.png",
+            "https://i.postimg.cc/6pTbH5hT/kasa-error.png"
 		],
 		"description": "Création d'une application web de location immobilière avec React",
         "mission": "Développer la nouvelle plateforme web d'un site de location d'appartement avec React",
