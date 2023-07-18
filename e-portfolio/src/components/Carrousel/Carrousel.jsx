@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import left from "../../assets/VectorLeft.svg";
-import right from "../../assets/VectorRight.svg";
+import left from "../../assets/chevron-left_ .svg";
+import right from "../../assets/chevron-right_.svg";
 
 export default function Carrousel({ slides }) {
 	const [current, setCurrent] = useState(0); // Définition de l'index du premier slide à 0

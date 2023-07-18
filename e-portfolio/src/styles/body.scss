@@ -45,9 +45,10 @@ main {
 }
 
 .fiche-container {
-	@include flex-center;
+    display: flex;
+    flex-direction: column;
     @include font(18px);
-	flex-direction: column;
+
 }
 
 .title-container {

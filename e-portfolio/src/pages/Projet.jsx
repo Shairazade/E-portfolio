@@ -48,6 +48,7 @@ export default function Projet() {
     validUrl ? (
       pickedAppart && (
         <div key={params.id} className="fiche-container">
+
           <Carrousel slides={slidePics} />
           <section className="projetInfo-container">
 
@@ -74,8 +75,9 @@ export default function Projet() {
             </div>
 
             <p> <b>Vous pouvez consulter <a href={pickedAppart.seeProject}>le site</a> ou retrouver <a href={pickedAppart.codeSource}>le code source du projet</a> sur mon espace GitHub.</b></p>
-            <Button to= "/portfolio" text="Retour aux projets"  />
-
+            <div className='btn-center'>
+              <Button to= "/portfolio" text="Retour aux projets"  />
+            </div>
           </section>
         </div>
 

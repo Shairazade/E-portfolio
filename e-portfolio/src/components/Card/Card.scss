@@ -89,6 +89,7 @@ height: 40%;
     }
 }
 
-.portfolio-description {
-    @include font(18px);
+.btn-center {
+    @include flex-center;
+    margin: auto; 
 }
