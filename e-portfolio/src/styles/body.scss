@@ -20,8 +20,11 @@ body {
 h1,h2,h3 {
     font-family: 'Amatic SC', cursive;
     font-weight: 400;
+    margin: 10px 0;
+}
+
+h1 {
     color: $primary-color;
-    margin: 0px;
 }
 
 h2 {
@@ -32,10 +35,46 @@ p {
     color: $primary-color;
 }
 
+
 main {
     margin: 5%;
 
     @media screen and (min-width: $breakpoint-desktop) {
         margin: 0 100px;
     }
+}
+
+.fiche-container {
+	@include flex-center;
+    @include font(18px);
+	flex-direction: column;
+}
+
+.title-container {
+	display: flex;
+	flex-direction: column;
+
+}
+
+.projetInfo-container {
+	width: 100%;
+
+}
+.wh-msk {
+	background: $secondary-color;
+	@include small-radius;
+
+	@media screen and (min-width: $breakpoint-desktop) {
+		@include big-radius;
+	}
+}
+
+a {
+    color: $primary-color;
+
+}
+
+.h1Size {
+    font-size: $fsizeHead2;
+    color: $primary-color;
 }

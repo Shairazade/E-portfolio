@@ -3,7 +3,7 @@
     display: flex;
     width: 700px;
     height: 400px;
- 
+    @include font(18px);
     min-width: 611px;
     transition: transform 1s;
     border: 1px solid rgba(19, 23, 62, 0.00);
@@ -55,7 +55,12 @@ height: 40%;
 & p {
     margin: 0 0 10px;
 }
+&_title {
+    color: $primary-color;
 }
+}
+
+
 
 .card-projet_language {
     display: flex;
@@ -82,4 +87,8 @@ height: 40%;
         @include big-radius;
         margin: 43px 0;
     }
+}
+
+.portfolio-description {
+    @include font(18px);
 }

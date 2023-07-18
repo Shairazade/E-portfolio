@@ -14,23 +14,23 @@
             "https://i.postimg.cc/NLvYfVnS/omf-menu2.png"
 		],
 		"description": "Création d’un site de commande de repas en ligne",
-        "mission": "développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques",
-		"project":{
-            "projetDescription": "Pour ce projet, j'ai réalisé l'intégration des maquettes mobile et desktop. Le projet nécessitait une approche “mobile first” donc parfaitement responsive et l'intégration de divers animations CSS ",
-            "siteComposition": [
-                "Une page d'accueil",
-                "Quatre page de menu",
-                "Un header",
-                "Un footer"
+        "mission": "Développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques. Pour ce projet, j'ai réalisé l'intégration des maquettes mobile et desktop. Le projet nécessitait une approche “mobile first” donc parfaitement responsive et l'intégration de divers animations CSS.",
+
+        "siteComposition": [
+            "Une page d'accueil",
+            "Quatre page de menu",
+            "Un header",
+            "Un footer"
         ],
-            "newSkills": [
-                "Mettre en oeuvre des effets CSS graphiques avancés",
-                "Mettre en place une structure de navigation pour un site web",
-                "Assurer la cohérence graphique d'un site web",
-                "Utiliser un système de gestion de versions pour le suivi d'un projet et son herbegement"
-            ]
-        },           
-        "seeProject": "Vous pouvez consulter le site et retrouver le code source sur mon espace GitHub"		
+        "newSkills": [
+            "Mettre en oeuvre des effets CSS graphiques avancés",
+            "Mettre en place une structure de navigation pour un site web",
+            "Assurer la cohérence graphique d'un site web",
+            "Utiliser un système de gestion de versions pour le suivi d'un projet et son herbegement"
+        ],
+             
+        "seeProject": "https://shairazade.github.io/p3_Ohmyfood/",
+        "codeSource" : "https://github.com/Shairazade/p3_Ohmyfood"	
     },
 
     {
@@ -48,21 +48,21 @@
             "https://i.postimg.cc/WpBgd4Bv/panthere-contact.png"
 		],
 		"description": "Optimisation d'un site web ",
-        "mission": "Améliorer le SEO du site afin qu'il apparaisse dans les premiers résultats des moteurs de recherche",
-		"project": {
-            "projetDescription": "Pour ce projet, j'ai premièrement effectué une analyse de l'état actuel de SEO du site fourni. J'ai par la suite indiqué les parties du site qui n'étaient pas optimisées pour le SEO. J'ai fini avec un compte rendu incluant une dizaine de recommandations pour améliorer le site avant d'appliquer mes recommandations au site. Un rapport avec une comparaison du site actuelle et la vesion optimisée a également été fourni.",
-            "siteComposition": [
-                "Une page d'accueil",
-                "Une page de contact"
+        "mission": "Améliorer le SEO du site afin qu'il apparaisse dans les premiers résultats des moteurs de recherche. Pour ce projet, j'ai premièrement effectué une analyse de l'état actuel de SEO du site fourni. J'ai par la suite indiqué les parties du site qui n'étaient pas optimisées pour le SEO. J'ai fini avec un compte rendu incluant une dizaine de recommandations pour améliorer le site avant d'appliquer mes recommandations au site. Un rapport avec une comparaison du site actuelle et la vesion optimisée a également été fourni.",
+
+        "siteComposition": [
+            "Une page d'accueil",
+            "Une page de contact"
         ],
-            "newSkills": [
-                "Réaliser une recherche de bonnes pratiques en développement web",
-                "Optimiser le référencement d'un site web",
-                "Optimiser la taille et la vitesse d'un site web",
-                "Assurer l'accessibilité d'un site web"
-            ]
-        },           
-        "seeProject": "Vous pouvez consulter le site et retrouver le code source sur mon espace GitHub"		
+        "newSkills": [
+            "Réaliser une recherche de bonnes pratiques en développement web",
+            "Optimiser le référencement d'un site web",
+            "Optimiser la taille et la vitesse d'un site web",
+            "Assurer l'accessibilité d'un site web"
+        ],
+           
+        "seeProject": "https://shairazade.github.io/p4_lapanthere/",
+        "codeSource" : "https://github.com/Shairazade/p4_lapanthere"	
     },
 
     {
@@ -83,22 +83,22 @@
             "https://i.postimg.cc/mZjtjbDv/kanap-confirmation.png"
 		],
 		"description": "Construction d'un site e-commerce en JavaScript",
-        "mission": "implémenter un site de manière dynamique",
-		"project": {
-            "projetDescription": "Pour ce projet, j'ai unifié les travaux déjà réalisés en intégrant dynamiquement les élements d'une API dans les différentes pages web avec JavaScript. J'ai par la suite mis en place un plan de test d'acceptation.",
-            "siteComposition": [
-                "Une page d'accueil",
-                "Une page produit",
-                "Une page panier",
-                "Une page de confirmation"
+        "mission": "Implémenter un site de manière dynamique. Pour ce projet, j'ai unifié les travaux déjà réalisés en intégrant dynamiquement les élements d'une API dans les différentes pages web avec JavaScript. J'ai par la suite mis en place un plan de test d'acceptation.",
+
+        "siteComposition": [
+            "Une page d'accueil",
+            "Une page produit",
+            "Une page panier",
+            "Une page de confirmation"
         ],
-            "newSkills": [
-                "Créer un plan de test pour un application",
-                "Valider des données issues de sources externes",
-                "Intéragir avec un web service avec JavaScript"
-            ]
-        },           
-        "seeProject": "Vous pouvez retrouver le code source du projet sur mon espace GitHub"		
+        "newSkills": [
+            "Créer un plan de test pour un application",
+            "Valider des données issues de sources externes",
+            "Intéragir avec un web service avec JavaScript"
+        ],
+          
+        "seeProject": "https://github.com/Shairazade/P5-Dev-Web-Kanap",
+        "codeSource" : "https://github.com/Shairazade/P5-Dev-Web-Kanap"		
     },
 
     {
@@ -119,22 +119,22 @@
             "https://i.postimg.cc/zXzm8NqF/hottake-modify.png"
 		],
 		"description": "Construction d'une API sécurisée pour une application d'avis gastronomiques",
-        "mission": "Construire une API securisée",
-		"project": {
-            "projetDescription": "Ce projet consistait à construire une API afin d'obtenir une « galerie de sauces » permettant aux utilisateurs de télécharger leur sauces piquantes préférées et de liker ou disliker les sauces que d'autres partagent. Ceci en faisant attention aux exigences en matière de sécurité (selon le RGPD et l'OWASP) ",
-            "siteComposition": [
-                "Une page d'authentification/inscription",
-                "Une page d'accueil réunissant toutes les sauces",
-                "Une page d'ajout/modification de sauce",
-                "Une page de présentation de sauce"
+        "mission": "Construire une API securisée. Ce projet consistait à construire une API afin d'obtenir une « galerie de sauces » permettant aux utilisateurs de télécharger leur sauces piquantes préférées et de liker ou disliker les sauces que d'autres partagent. Ceci en faisant attention aux exigences en matière de sécurité (selon le RGPD et l'OWASP)",
+ 
+        "siteComposition": [
+            "Une page d'authentification/inscription",
+            "Une page d'accueil réunissant toutes les sauces",
+            "Une page d'ajout/modification de sauce",
+            "Une page de présentation de sauce"
         ],
-            "newSkills": [
-                "Mettre en oeuvre des opérations CRUD de manière sécurisée",
-                "Implémenter un modèle logique de données conformément à la réglementation",
-                "Stocker des données de manière sécurisée"
-            ]
-        },           
-        "seeProject": "Vous pouvez retrouver le code source du projet sur mon espace GitHub"		
+        "newSkills": [
+            "Mettre en oeuvre des opérations CRUD de manière sécurisée",
+            "Implémenter un modèle logique de données conformément à la réglementation",
+            "Stocker des données de manière sécurisée"
+        ],
+           
+        "seeProject": "https://github.com/Shairazade/Web-Developer-P6",
+        "codeSource" : "https://github.com/Shairazade/Web-Developer-P6"			
     },
 
     {
@@ -156,22 +156,22 @@
             "https://i.postimg.cc/6pTbH5hT/kasa-error.png"
 		],
 		"description": "Création d'une application web de location immobilière avec React",
-        "mission": "Développer la nouvelle plateforme web d'un site de location d'appartement avec React",
-		"project": {
-            "projetDescription": "Ce projet consitait à développer l'ensemble de l'application en React, créer les composants nécessaires, les routes React Router en suivant les maquettes Figma. J'ai également intégré les dernières annonces de façon dynamique",
-            "siteComposition": [
-                "Une page d'accueil réunissant les dernières annonces de logements",
-                "Une page fiche logement",
-                "Une page à propos",
-                "Une page d'erreur"
+        "mission": "Développer la nouvelle plateforme web d'un site de location d'appartement avec React. Ce projet consitait à développer l'ensemble de l'application en React, créer les composants nécessaires, les routes React Router en suivant les maquettes Figma. J'ai également intégré les dernières annonces de façon dynamique",
+  
+        "siteComposition": [
+            "Une page d'accueil réunissant les dernières annonces de logements",
+            "Une page fiche logement",
+            "Une page à propos",
+            "Une page d'erreur"
         ],
-            "newSkills": [
-                "Configurer la navigation entre les pages de l'application avec React Router",
-                "Développer des éléments de l'interface d'un site web grâce à des composants React",
-                "Initialiser une application avec Create React App"
-            ]
-        },           
-        "seeProject": "Vous pouvez retrouver le code source du projet sur mon espace GitHub"		
+        "newSkills": [
+            "Configurer la navigation entre les pages de l'application avec React Router",
+            "Développer des éléments de l'interface d'un site web grâce à des composants React",
+            "Initialiser une application avec Create React App"
+        ],
+         
+        "seeProject": "https://github.com/Shairazade/P7_Kasa_Shairazade_Hassani",
+        "codeSource" : "https://github.com/Shairazade/P7_Kasa_Shairazade_Hassani"			
     }
 
 ]
