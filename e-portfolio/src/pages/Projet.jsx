@@ -47,13 +47,14 @@ export default function Projet() {
   return (
     validUrl ? (
       pickedAppart && (
-        <div key={params.id} className="fiche-container">
+        <div key={params.id} className="fiche-container"> {/*voir style dans body.scss */}
+
+
 
           <Carrousel slides={slidePics} />
-          <section className="projetInfo-container">
-
-            <div className="title-container">
-                <h1 className="h1Size">{pickedAppart.title}</h1>
+          <section className="projetInfo-container"> {/*voir style dans body.scss */}
+          <div className="title-container">
+                <h1 className="h1Size">{pickedAppart.title}</h1> {/*voir style dans body.scss */}
                 <p>{pickedAppart.description}</p>
             </div>
 
@@ -74,8 +75,8 @@ export default function Projet() {
               />
             </div>
 
-            <p> <b>Vous pouvez consulter <a href={pickedAppart.seeProject}>le site</a> ou retrouver <a href={pickedAppart.codeSource}>le code source du projet</a> sur mon espace GitHub.</b></p>
-            <div className='btn-center'>
+            <p className='info'> <b>Vous pouvez consulter <a href={pickedAppart.seeProject}>le site</a> ou retrouver <a href={pickedAppart.codeSource}>le code source du projet</a> sur mon espace GitHub.</b></p>
+            <div className='btn-center'> {/*voir style de btn-center dans card.scss */}
               <Button to= "/portfolio" text="Retour aux projets"  />
             </div>
           </section>

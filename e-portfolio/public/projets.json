@@ -35,7 +35,7 @@
 
     {
         "id": "pp002lp",
-		"title": "La Panthère : agence de web design",
+		"title": "La Panthère : agence web design",
 		"cover": "https://i.postimg.cc/Jn0Qmd94/panthere-home.png",
 		"language": [
             "https://i.postimg.cc/8PnPqpNX/HTML.png",
@@ -142,7 +142,6 @@
 		"title": "Kasa",
 		"cover": "https://i.postimg.cc/SKD21kQ1/kasa-home.png",
 		"language": [
-            "https://i.postimg.cc/vHDHvfCn/Java-Script.png",
             "https://i.postimg.cc/PrjDq674/Sass.png",
             "https://i.postimg.cc/c1QKPRJ8/React.png",
             "https://i.postimg.cc/J4yMXmBc/Node-js.png",

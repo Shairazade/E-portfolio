@@ -1,6 +1,6 @@
 .collapse {
 	width: 100%;
-	margin: 20px 0;
+	margin: 25px 0 ;
 
 	@media screen and (min-width: $breakpoint-desktop) {
 		margin: 31px auto 0;
@@ -36,9 +36,16 @@
 		transition: opacity 0.4s ease-in-out, height 0.4s 0.4s ease-in-out;
 
 		p {
-			margin: 0;
-			padding: 22px 15px;
+			margin: 0;			
+			padding: 5px 5px;
 			pointer-events: none;
+			text-align: justify;
+			@include font (14px);
+			
+			@media screen and (min-width: $breakpoint-desktop) {
+				@include font (18px);
+				padding: 22px 15px;
+			}
 
 		}
 	}
@@ -85,4 +92,10 @@
 .font-color-projet h2 {
     color: $tertiary-color;
 
+}
+
+.info {
+	margin-top: 30px;
+
+	
 }

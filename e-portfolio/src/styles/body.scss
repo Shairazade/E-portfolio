@@ -40,7 +40,7 @@ main {
     margin: 5%;
 
     @media screen and (min-width: $breakpoint-desktop) {
-        margin: 0 100px;
+        margin: 0 50px;
     }
 }
 
@@ -61,6 +61,8 @@ main {
 	width: 100%;
 
 }
+
+
 .wh-msk {
 	background: $secondary-color;
 	@include small-radius;

@@ -9,12 +9,14 @@ import Footer from './components/Footer/Footer';
 import ErrorBoundary from "./components/ErrorBoundary/ErrorBoundary";
 
 function App() {
-  const match = useMatch("/");
+  const isHome = useMatch("/");
+  const isContact = useMatch("/contact");
+  
 
   return (
     
       <div className="App">
-        {!match && <Header />} 
+      {!isHome && !isContact && <Header />}
         <main>
           <ErrorBoundary>
             <Routes>
@@ -25,7 +27,7 @@ function App() {
             </Routes>
           </ErrorBoundary>
         </main>
-        {!match && <Footer />} 
+        {!isHome && <Footer />} 
       </div>
    
   );
