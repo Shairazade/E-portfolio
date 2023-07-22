@@ -57,6 +57,7 @@ position: absolute;
 transform: translateY(150%);
 @include WH-full;
 height: 40%;
+border-top: solid 1px $primary-color;
 
 
 & p {

@@ -1,0 +1,49 @@
+/* Style CSS pour la fenêtre modale */
+.modal-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Style pour le titre de la fenêtre modale */
+  .modal-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: $primary-color;
+    @include font (25px);
+  }
+  
+  /* Style pour le contenu du message */
+  .modal-message {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style pour le bouton "Fermer" */
+  .modal-button {
+    padding: 8px 16px;
+    background-color: $primary-color ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid $primary-color;
+    
+  }
+  
+  .modal-button:hover {
+    background-color: $secondary-color ;
+    color: $primary-color ;
+    border: 1px solid $primary-color;
+  }
+  
