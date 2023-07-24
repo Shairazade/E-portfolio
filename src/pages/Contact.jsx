@@ -7,7 +7,7 @@ export default function Contact() {
     <div className='contact-container'>
       <div className='contact-info'>      
         <h1>Restons en contact !</h1>
-        <p> Vous avez questions ? Ecrivez-moi, je serais ravie de vous répondre aussi rapidement que possible !</p>  
+        <p> Vous avez des questions ? Ecrivez-moi, je serais ravie de vous répondre aussi rapidement que possible !</p>  
       </div>    
       <ContactForm/>
     </div>
