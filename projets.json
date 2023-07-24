@@ -1,0 +1,176 @@
+[
+    {
+        "id": "pp001omf",
+		"title": "Oh my food",
+		"cover": "https://i.postimg.cc/x1syG9pr/omf-home.png",
+		"language": [
+            "https://i.postimg.cc/8PnPqpNX/HTML.png",
+            "https://i.postimg.cc/yYqz9D6H/CSS.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
+        ],
+        "pictures": [
+            "https://i.postimg.cc/x1syG9pr/omf-home.png",
+			"https://i.postimg.cc/d13fMB5C/omf-menu1.png",
+            "https://i.postimg.cc/NLvYfVnS/omf-menu2.png"
+		],
+		"description": "Création d’un site de commande de repas en ligne",
+        "mission": "Développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques. Pour ce projet, j'ai réalisé l'intégration des maquettes mobile et desktop. Le projet nécessitait une approche “mobile first” donc parfaitement responsive et l'intégration de divers animations CSS.",
+
+        "siteComposition": [
+            "Une page d'accueil",
+            "Quatre page de menu",
+            "Un header",
+            "Un footer"
+        ],
+        "newSkills": [
+            "Mettre en oeuvre des effets CSS graphiques avancés",
+            "Mettre en place une structure de navigation pour un site web",
+            "Assurer la cohérence graphique d'un site web",
+            "Utiliser un système de gestion de versions pour le suivi d'un projet et son herbegement"
+        ],
+             
+        "seeProject": "https://shairazade.github.io/p3_Ohmyfood/",
+        "codeSource" : "https://github.com/Shairazade/p3_Ohmyfood"	
+    },
+
+    {
+        "id": "pp002lp",
+		"title": "La Panthère : agence web design",
+		"cover": "https://i.postimg.cc/Jn0Qmd94/panthere-home.png",
+		"language": [
+            "https://i.postimg.cc/8PnPqpNX/HTML.png",
+            "https://i.postimg.cc/yYqz9D6H/CSS.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
+        ],
+        "pictures": [
+			"https://i.postimg.cc/Jn0Qmd94/panthere-home.png",
+            "https://i.postimg.cc/hvSs6tc6/panthere-footer.png",
+            "https://i.postimg.cc/WpBgd4Bv/panthere-contact.png"
+		],
+		"description": "Optimisation d'un site web ",
+        "mission": "Améliorer le SEO du site afin qu'il apparaisse dans les premiers résultats des moteurs de recherche. Pour ce projet, j'ai premièrement effectué une analyse de l'état actuel de SEO du site fourni. J'ai par la suite indiqué les parties du site qui n'étaient pas optimisées pour le SEO. J'ai fini avec un compte rendu incluant une dizaine de recommandations pour améliorer le site avant d'appliquer mes recommandations au site. Un rapport avec une comparaison du site actuelle et la vesion optimisée a également été fourni.",
+
+        "siteComposition": [
+            "Une page d'accueil",
+            "Une page de contact"
+        ],
+        "newSkills": [
+            "Réaliser une recherche de bonnes pratiques en développement web",
+            "Optimiser le référencement d'un site web",
+            "Optimiser la taille et la vitesse d'un site web",
+            "Assurer l'accessibilité d'un site web"
+        ],
+           
+        "seeProject": "https://shairazade.github.io/p4_lapanthere/",
+        "codeSource" : "https://github.com/Shairazade/p4_lapanthere"	
+    },
+
+    {
+        "id": "pp003knp",
+		"title": "Kanap",
+		"cover": "https://i.postimg.cc/5NyDr34x/kanap-home.png",
+		"language": [
+            "https://i.postimg.cc/vHDHvfCn/Java-Script.png",
+            "https://i.postimg.cc/J4yMXmBc/Node-js.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
+        ],
+        "pictures": [
+			"https://i.postimg.cc/5NyDr34x/kanap-home.png",
+            "https://i.postimg.cc/1tRvqm49/kanap-products.png",
+            "https://i.postimg.cc/P5k9qkbq/kanap.png",
+            "https://i.postimg.cc/vB95TCtQ/kanap-basket.png",
+            "https://i.postimg.cc/RFrnkX52/kanap-form.png",
+            "https://i.postimg.cc/mZjtjbDv/kanap-confirmation.png"
+		],
+		"description": "Construction d'un site e-commerce en JavaScript",
+        "mission": "Implémenter un site de manière dynamique. Pour ce projet, j'ai unifié les travaux déjà réalisés en intégrant dynamiquement les élements d'une API dans les différentes pages web avec JavaScript. J'ai par la suite mis en place un plan de test d'acceptation.",
+
+        "siteComposition": [
+            "Une page d'accueil",
+            "Une page produit",
+            "Une page panier",
+            "Une page de confirmation"
+        ],
+        "newSkills": [
+            "Créer un plan de test pour un application",
+            "Valider des données issues de sources externes",
+            "Intéragir avec un web service avec JavaScript"
+        ],
+          
+        "seeProject": "https://github.com/Shairazade/P5-Dev-Web-Kanap",
+        "codeSource" : "https://github.com/Shairazade/P5-Dev-Web-Kanap"		
+    },
+
+    {
+        "id": "pp004ht",
+		"title": "Hot Takes",
+		"cover": "https://i.postimg.cc/yYJ38M12/hottake-home.png",
+		"language": [
+            "https://i.postimg.cc/vHDHvfCn/Java-Script.png",
+
+            "https://i.postimg.cc/J4yMXmBc/Node-js.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
+        ],
+        "pictures": [
+            "https://i.postimg.cc/yYJ38M12/hottake-home.png",
+            "https://i.postimg.cc/7YTcnLP9/hottake-sign.png",
+            "https://i.postimg.cc/V6fvXTj9/hottake-sauce.png",
+            "https://i.postimg.cc/Jh27Bnz8/hottake-add.png",
+            "https://i.postimg.cc/zXzm8NqF/hottake-modify.png"
+		],
+		"description": "Construction d'une API sécurisée pour une application d'avis gastronomiques",
+        "mission": "Construire une API securisée. Ce projet consistait à construire une API afin d'obtenir une « galerie de sauces » permettant aux utilisateurs de télécharger leur sauces piquantes préférées et de liker ou disliker les sauces que d'autres partagent. Ceci en faisant attention aux exigences en matière de sécurité (selon le RGPD et l'OWASP)",
+ 
+        "siteComposition": [
+            "Une page d'authentification/inscription",
+            "Une page d'accueil réunissant toutes les sauces",
+            "Une page d'ajout/modification de sauce",
+            "Une page de présentation de sauce"
+        ],
+        "newSkills": [
+            "Mettre en oeuvre des opérations CRUD de manière sécurisée",
+            "Implémenter un modèle logique de données conformément à la réglementation",
+            "Stocker des données de manière sécurisée"
+        ],
+           
+        "seeProject": "https://github.com/Shairazade/Web-Developer-P6",
+        "codeSource" : "https://github.com/Shairazade/Web-Developer-P6"			
+    },
+
+    {
+        "id": "pp005ks",
+		"title": "Kasa",
+		"cover": "https://i.postimg.cc/SKD21kQ1/kasa-home.png",
+		"language": [
+            "https://i.postimg.cc/PrjDq674/Sass.png",
+            "https://i.postimg.cc/c1QKPRJ8/React.png",
+            "https://i.postimg.cc/J4yMXmBc/Node-js.png",
+            "https://i.postimg.cc/ZYHrvdx9/Git.png"
+        ],
+        "pictures": [
+			"https://i.postimg.cc/SKD21kQ1/kasa-home.png",
+            "https://i.postimg.cc/7YHgVsNL/kasa-card.png",
+            "https://i.postimg.cc/y8SWXc2d/kasa-log.png",
+            "https://i.postimg.cc/jq7s1tZg/kasa-about.png",
+            "https://i.postimg.cc/6pTbH5hT/kasa-error.png"
+		],
+		"description": "Création d'une application web de location immobilière avec React",
+        "mission": "Développer la nouvelle plateforme web d'un site de location d'appartement avec React. Ce projet consitait à développer l'ensemble de l'application en React, créer les composants nécessaires, les routes React Router en suivant les maquettes Figma. J'ai également intégré les dernières annonces de façon dynamique",
+  
+        "siteComposition": [
+            "Une page d'accueil réunissant les dernières annonces de logements",
+            "Une page fiche logement",
+            "Une page à propos",
+            "Une page d'erreur"
+        ],
+        "newSkills": [
+            "Configurer la navigation entre les pages de l'application avec React Router",
+            "Développer des éléments de l'interface d'un site web grâce à des composants React",
+            "Initialiser une application avec Create React App"
+        ],
+         
+        "seeProject": "https://github.com/Shairazade/P7_Kasa_Shairazade_Hassani",
+        "codeSource" : "https://github.com/Shairazade/P7_Kasa_Shairazade_Hassani"			
+    }
+
+]
