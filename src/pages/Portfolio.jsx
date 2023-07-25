@@ -9,7 +9,7 @@ export default function Portfolio() {
     const [data, setData] = useState ([]);
 
     useEffect (() => {
-      axios.get("/projets.json").then((res)=> setData(res.data));
+      axios.get("https://shairazade.github.io/e-portfolio/projets.json").then((res)=> setData(res.data));
     }, []);
 
   return (

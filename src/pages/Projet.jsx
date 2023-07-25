@@ -15,7 +15,7 @@ export default function Projet() {
 
   useEffect(() => {
     const getData = async () => {
-      const res = await axios.get("/projets.json");
+      const res = await axios.get("https://shairazade.github.io/e-portfolio/projets.json");
       const picked = res.data.find(({ id }) => id === params.id);
       if (picked === undefined) {
         setValidUrl(false);
